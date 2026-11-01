@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="portada-pepellm.png" alt="Pepe LLM" width="100%" />
 
 # Pepe LLM 🐸
 
