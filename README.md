@@ -58,7 +58,7 @@ Apuntes → Procesamiento local (resumen · quiz · glosario · SRS) → Repaso
 
 ```bash
 git clone https://github.com/TU-USUARIO/pepe-llm.git
-cd pepe-llm
+cd Pepe.llm
 npm install
 npm run dev
 ```
